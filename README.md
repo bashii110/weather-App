@@ -59,7 +59,7 @@ The app uses OpenWeatherMap API (or your selected API).
 You need to add your API key in the API service file.
 
 
-const String apiKey = 'c6c1ae05ccdbd2249c6fb3dd6d83323e';
+const String apiKey = 'Your Api Key';
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
